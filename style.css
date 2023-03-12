@@ -55,6 +55,24 @@ a{
     }
 }
 
+label{
+    font-family: 'Roboto Slab', sans-serif;
+    color: white;
+    font-size: 2rem;
+
+}
+
+.stats-container{
+    margin: 0rem 14rem;
+}
+
+.form-dropdown{
+    font-family: 'Roboto Slab', sans-serif;
+    background-color: black;
+    color: white;
+    font-size: 1.8rem;
+}
+
 .classButton{
     background-color: rgb(35,31,32);
     display: inline-block;
